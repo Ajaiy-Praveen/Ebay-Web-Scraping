@@ -6,7 +6,6 @@ This project involves web scraping eBay's website to gather data on sold Amazon 
 
 Requirements
 Python (3.6 or later)
-BeautifulSoup4
 
 Instructions
 
@@ -18,4 +17,5 @@ The data will be saved to individual HTML files named "amazon_gift_card_XX.htm",
 After scraping is complete, the script will parse the HTML data and print relevant information to the console.
 
 Conclusion
+
 This project demonstrates the power of web scraping for data collection and analysis. By utilizing Python and several libraries, we were able to automate the process of gathering and analyzing data from eBay's website. This information can be used to make informed purchasing decisions and gain insights into consumer behavior.
